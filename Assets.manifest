@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2438355023
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: newb
+      Dependencies: {}
+    Info_1:
+      Name: newa
+      Dependencies: {}
